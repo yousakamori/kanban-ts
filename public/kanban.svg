@@ -1,0 +1,22 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="5" y="5" width="90" height="90" rx="5" ry="5" fill="#f0f0f0" stroke="#ccc" stroke-width="2"/>
+
+  <!-- Column lines -->
+  <line x1="30" y1="10" x2="30" y2="90" stroke="#888" stroke-width="2"/>
+  <line x1="70" y1="10" x2="70" y2="90" stroke="#888" stroke-width="2"/>
+
+  <!-- Cards in column 1 -->
+  <rect x="10" y="20" width="15" height="10" fill="#3b82f6" />
+  <rect x="10" y="35" width="15" height="10" fill="#3b82f6" />
+  <rect x="10" y="50" width="15" height="10" fill="#3b82f6" />
+
+  <!-- Cards in column 2 -->
+  <rect x="40" y="20" width="15" height="10" fill="#10b981" />
+  <rect x="40" y="35" width="15" height="10" fill="#10b981" />
+
+  <!-- Cards in column 3 -->
+  <rect x="75" y="20" width="15" height="10" fill="#f97316" />
+  <rect x="75" y="35" width="15" height="10" fill="#f97316" />
+  <rect x="75" y="50" width="15" height="10" fill="#f97316" />
+</svg>
